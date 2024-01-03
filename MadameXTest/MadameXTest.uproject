@@ -146,10 +146,6 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
-		},
-		{
-			"Name": "NDIIOPlugin",
-			"Enabled": true
 		}
 	]
 }
